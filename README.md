@@ -25,7 +25,7 @@ Smart utility that keeps your system awake by moving the mouse in shapes at set 
 
 ---
 
-## 🖥Tech Stack
+## Tech Stack
 
 - Python 3
 - `tkinter` (GUI)
